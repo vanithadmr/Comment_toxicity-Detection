@@ -64,7 +64,7 @@ LSTM - long, short-term memory:
       neural networks that maps input values to a range between -1 and 1. It is
       zero-centered, which helps improve training efficiency
 
-RNNs - Recurrent neural network:
+### RNNs - Recurrent neural network:
      from tensorflow.keras.layers import SimpleRNN
      from tensorflow.keras.regularizers import l2
      # Building the model
